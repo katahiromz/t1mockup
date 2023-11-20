@@ -1,0 +1,14 @@
+#include <windows.h>
+#include "resource.h"
+
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_TRADITIONAL
+
+IDB_T1_BACKSPACE BITMAP "res/1033_Bitmap_100.bmp"
+IDB_T1_TAB       BITMAP "res/1033_Bitmap_101.bmp"
+IDB_T1_CAPS      BITMAP "res/1033_Bitmap_102.bmp"
+IDB_T1_ENTER     BITMAP "res/1033_Bitmap_103.bmp"
+IDB_T1_SHIFT     BITMAP "res/1033_Bitmap_104.bmp"
+IDB_T1_CTRL      BITMAP "res/1033_Bitmap_105.bmp"
+IDB_T1_ESCAPE    BITMAP "res/1033_Bitmap_106.bmp"
+IDB_T1_ALT       BITMAP "res/1033_Bitmap_107.bmp"
+IDB_T1_CHARS     BITMAP "res/1033_Bitmap_108.bmp"

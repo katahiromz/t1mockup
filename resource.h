@@ -1,0 +1,10 @@
+// Bitmap IDs
+#define IDB_T1_BACKSPACE    100
+#define IDB_T1_TAB          101
+#define IDB_T1_CAPS         102
+#define IDB_T1_ENTER        103
+#define IDB_T1_SHIFT        104
+#define IDB_T1_CTRL         105
+#define IDB_T1_ESCAPE       106
+#define IDB_T1_ALT          107
+#define IDB_T1_CHARS        108
